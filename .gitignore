@@ -1,0 +1,8 @@
+.venv/
+Signature data/
+Processed_Dataset/
+signature_model.pth
+__pycache__/
+.DS_Store
+*.pth
+*.log
